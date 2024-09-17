@@ -1,2 +1,3 @@
 # COREGroup10 
-print(hello world)
+print("hello world")
+'git add/rm <file>'
